@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_41305e7f044956f97515be3cbf6f302c22ae4567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\JavaIDE\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_0471ae19f20aad0ca7de60df5c81a4259eff2625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_f2ea617337aecf928e5211ef05adf069595a40e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_0b949dc618644065be981b23fa6bc2cc77404baf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_77ec837485ff1626e2a91afe392b3cb7fa12ecff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_4113f93cb730bc1371af8bac222089aae9045c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github-source\ExpandTable-master\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="D:\github-source\ExpandTable-master\app\build\intermediates\pre-dexed\debug\gson-2.2.1_5a889093a9c679ea12964145f8bfe9b50075c3b6.jar" />
+    </item>
+
+</items>
